@@ -1860,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-06-06 19:02:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2019-12-23 22:28:01 +0900"
@@ -2172,6 +2178,7 @@
       "pumpkin_pie": "2020-02-28 13:26:15 +0900",
       "bread": "2019-11-26 23:39:46 +0900",
       "rotten_flesh": "2019-11-27 00:54:11 +0900",
+      "cookie": "2021-06-06 02:14:36 +0900",
       "cod": "2019-11-29 11:42:41 +0900",
       "cooked_salmon": "2019-11-27 00:07:33 +0900",
       "carrot": "2021-04-04 17:02:56 +0900"
